@@ -1,1 +1,1 @@
-conflict task B
+conflict task AB
